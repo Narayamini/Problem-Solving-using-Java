@@ -1,0 +1,5 @@
+str.toCharArray() - to convert string to CharArray !
+Linear Search - Time Complexity - O(1), O(N)
+Binary Search - used for sorted arrays
+Binary Search - Time Complexity - O(1), O(logN)->(ignoring constants)
+1 level -  N/2, 2nd level - N/4 , kth level - N/2^k(k total no of levels) so total levels is logN base 2
