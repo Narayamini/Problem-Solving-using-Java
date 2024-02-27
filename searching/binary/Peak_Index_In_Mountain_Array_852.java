@@ -4,7 +4,7 @@ package searching.binary;
 public class Peak_Index_In_Mountain_Array_852 {
 
     public static void main(String[] args) {
-        int[] arr= {0,10,5,2};
+        int[] arr= {3,4,5,6,7,1,2};
         System.out.println(peakIndexInMountainArray(arr));
     }
 
